@@ -1,0 +1,15 @@
+C:\Users\josem\source\repos\limite_texto\bin\Debug\net6.0\limite_texto.exe
+C:\Users\josem\source\repos\limite_texto\bin\Debug\net6.0\limite_texto.deps.json
+C:\Users\josem\source\repos\limite_texto\bin\Debug\net6.0\limite_texto.runtimeconfig.json
+C:\Users\josem\source\repos\limite_texto\bin\Debug\net6.0\limite_texto.dll
+C:\Users\josem\source\repos\limite_texto\bin\Debug\net6.0\limite_texto.pdb
+C:\Users\josem\source\repos\limite_texto\obj\Debug\net6.0\limite_texto.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\limite_texto\obj\Debug\net6.0\limite_texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\repos\limite_texto\obj\Debug\net6.0\limite_texto.AssemblyInfoInputs.cache
+C:\Users\josem\source\repos\limite_texto\obj\Debug\net6.0\limite_texto.AssemblyInfo.cs
+C:\Users\josem\source\repos\limite_texto\obj\Debug\net6.0\limite_texto.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\limite_texto\obj\Debug\net6.0\limite_texto.dll
+C:\Users\josem\source\repos\limite_texto\obj\Debug\net6.0\refint\limite_texto.dll
+C:\Users\josem\source\repos\limite_texto\obj\Debug\net6.0\limite_texto.pdb
+C:\Users\josem\source\repos\limite_texto\obj\Debug\net6.0\limite_texto.genruntimeconfig.cache
+C:\Users\josem\source\repos\limite_texto\obj\Debug\net6.0\ref\limite_texto.dll

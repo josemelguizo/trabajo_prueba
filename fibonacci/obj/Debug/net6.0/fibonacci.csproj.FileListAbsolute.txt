@@ -1,0 +1,15 @@
+C:\Users\josem\source\repos\fibonacci\obj\Debug\net6.0\fibonacci.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\fibonacci\obj\Debug\net6.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\repos\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\josem\source\repos\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfo.cs
+C:\Users\josem\source\repos\fibonacci\obj\Debug\net6.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\fibonacci\bin\Debug\net6.0\fibonacci.exe
+C:\Users\josem\source\repos\fibonacci\bin\Debug\net6.0\fibonacci.deps.json
+C:\Users\josem\source\repos\fibonacci\bin\Debug\net6.0\fibonacci.runtimeconfig.json
+C:\Users\josem\source\repos\fibonacci\bin\Debug\net6.0\fibonacci.dll
+C:\Users\josem\source\repos\fibonacci\bin\Debug\net6.0\fibonacci.pdb
+C:\Users\josem\source\repos\fibonacci\obj\Debug\net6.0\fibonacci.dll
+C:\Users\josem\source\repos\fibonacci\obj\Debug\net6.0\refint\fibonacci.dll
+C:\Users\josem\source\repos\fibonacci\obj\Debug\net6.0\fibonacci.pdb
+C:\Users\josem\source\repos\fibonacci\obj\Debug\net6.0\fibonacci.genruntimeconfig.cache
+C:\Users\josem\source\repos\fibonacci\obj\Debug\net6.0\ref\fibonacci.dll

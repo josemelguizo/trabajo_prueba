@@ -1,0 +1,17 @@
+C:\Users\josem\source\repos\Api_rick_and_morty\obj\Debug\net6.0\Api_rick_and_morty.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\Api_rick_and_morty\obj\Debug\net6.0\Api_rick_and_morty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\repos\Api_rick_and_morty\obj\Debug\net6.0\Api_rick_and_morty.AssemblyInfoInputs.cache
+C:\Users\josem\source\repos\Api_rick_and_morty\obj\Debug\net6.0\Api_rick_and_morty.AssemblyInfo.cs
+C:\Users\josem\source\repos\Api_rick_and_morty\obj\Debug\net6.0\Api_rick_and_morty.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Api_rick_and_morty\bin\Debug\net6.0\Api_rick_and_morty.exe
+C:\Users\josem\source\repos\Api_rick_and_morty\bin\Debug\net6.0\Api_rick_and_morty.deps.json
+C:\Users\josem\source\repos\Api_rick_and_morty\bin\Debug\net6.0\Api_rick_and_morty.runtimeconfig.json
+C:\Users\josem\source\repos\Api_rick_and_morty\bin\Debug\net6.0\Api_rick_and_morty.dll
+C:\Users\josem\source\repos\Api_rick_and_morty\bin\Debug\net6.0\Api_rick_and_morty.pdb
+C:\Users\josem\source\repos\Api_rick_and_morty\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\josem\source\repos\Api_rick_and_morty\obj\Debug\net6.0\Api_rick_and_morty.csproj.CopyComplete
+C:\Users\josem\source\repos\Api_rick_and_morty\obj\Debug\net6.0\Api_rick_and_morty.dll
+C:\Users\josem\source\repos\Api_rick_and_morty\obj\Debug\net6.0\refint\Api_rick_and_morty.dll
+C:\Users\josem\source\repos\Api_rick_and_morty\obj\Debug\net6.0\Api_rick_and_morty.pdb
+C:\Users\josem\source\repos\Api_rick_and_morty\obj\Debug\net6.0\Api_rick_and_morty.genruntimeconfig.cache
+C:\Users\josem\source\repos\Api_rick_and_morty\obj\Debug\net6.0\ref\Api_rick_and_morty.dll

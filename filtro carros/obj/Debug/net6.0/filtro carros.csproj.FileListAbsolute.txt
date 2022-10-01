@@ -1,0 +1,15 @@
+C:\Users\josem\source\repos\filtro carros\bin\Debug\net6.0\filtro carros.exe
+C:\Users\josem\source\repos\filtro carros\bin\Debug\net6.0\filtro carros.deps.json
+C:\Users\josem\source\repos\filtro carros\bin\Debug\net6.0\filtro carros.runtimeconfig.json
+C:\Users\josem\source\repos\filtro carros\bin\Debug\net6.0\filtro carros.dll
+C:\Users\josem\source\repos\filtro carros\bin\Debug\net6.0\filtro carros.pdb
+C:\Users\josem\source\repos\filtro carros\obj\Debug\net6.0\filtro carros.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\filtro carros\obj\Debug\net6.0\filtro carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\source\repos\filtro carros\obj\Debug\net6.0\filtro carros.AssemblyInfoInputs.cache
+C:\Users\josem\source\repos\filtro carros\obj\Debug\net6.0\filtro carros.AssemblyInfo.cs
+C:\Users\josem\source\repos\filtro carros\obj\Debug\net6.0\filtro carros.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\filtro carros\obj\Debug\net6.0\filtro carros.dll
+C:\Users\josem\source\repos\filtro carros\obj\Debug\net6.0\refint\filtro carros.dll
+C:\Users\josem\source\repos\filtro carros\obj\Debug\net6.0\filtro carros.pdb
+C:\Users\josem\source\repos\filtro carros\obj\Debug\net6.0\filtro carros.genruntimeconfig.cache
+C:\Users\josem\source\repos\filtro carros\obj\Debug\net6.0\ref\filtro carros.dll
